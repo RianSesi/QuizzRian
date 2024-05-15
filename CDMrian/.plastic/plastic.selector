@@ -1,0 +1,4 @@
+repository "CDM-rian@Jogos_Digitais_3A@cloud"
+  path "/"
+    br "/main"
+    co "/main"
